@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning REACTJS, NEXTJS, NuxtJS, Redux, C#, C++, Angular, Nginx, Docker etc
 - 📫 Write dm/pm
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/924758520635727882)](https://discord.com/users/924758520635727882)
+[![Discord Presence](https://lanyard.cnrad.dev/api/924758520635727882?showDisplayName=true&theme=dark&idleMessage=go%20watch%20it!%20https%3A%2F%2Fwww.tiktok.com%2F%40charzcharzworld%2Fvideo%2F7536147189135838486)](https://discord.com/users/924758520635727882)
 
 
 ## 🌐 Socials:
